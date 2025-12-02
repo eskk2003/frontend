@@ -1,4 +1,5 @@
-Base URL:https://frontend-sepia-tau-52.vercel.app/
+Base URL: https://hotel-management-3-u1lv.onrender.com
+Base URL: https://frontend-sepia-tau-52.vercel.app/
 
 API Endpoints Used 
 
