@@ -37,3 +37,7 @@ POST /api/bookings - Create new booking
 PUT /api/bookings/:id - Update existing booking
 
 DELETE /api/bookings/:id - Delete booking
+
+*screenshot of frontend
+<img width="1920" height="1080" alt="Screenshot 2025-12-02 192146" src="https://github.com/user-attachments/assets/9a40ec75-1987-4553-8ea7-1fff38cea8a1" />
+
