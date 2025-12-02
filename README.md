@@ -2,7 +2,7 @@ Base URL:https://frontend-sepia-tau-52.vercel.app/
 
 API Endpoints Used 
 
-*Guests Management
+* Guests Management
 
 GET /api/guests - Fetch all guests
 
@@ -14,7 +14,7 @@ PUT /api/guests/:id - Update existing guest
 
 DELETE /api/guests/:id - Delete guest
 
-*Rooms Management
+* Rooms Management
 
 GET /api/rooms - Fetch all rooms
 
@@ -26,7 +26,7 @@ PUT /api/rooms/:id - Update existing room
 
 DELETE /api/rooms/:id - Delete room
 
-*Bookings Management
+* Bookings Management
 
 GET /api/bookings - Fetch all bookings
 
