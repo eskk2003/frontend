@@ -2,7 +2,7 @@ Base URL:https://frontend-sepia-tau-52.vercel.app/
 
 API Endpoints Used 
 
-<img width="256" height="256" alt="Hotel" src="https://github.com/user-attachments/assets/12c28d1d-1a20-417e-a98c-15dd10d2d477" /> Guests Management
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/020426db-5335-451c-b385-c638bb663081" /> Guests Management
 
 GET /api/guests - Fetch all guests
 
