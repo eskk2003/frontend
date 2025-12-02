@@ -40,4 +40,8 @@ DELETE /api/bookings/:id - Delete booking
 
 *screenshot of frontend
 <img width="1920" height="1080" alt="Screenshot 2025-12-02 192146" src="https://github.com/user-attachments/assets/9a40ec75-1987-4553-8ea7-1fff38cea8a1" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-02 192209" src="https://github.com/user-attachments/assets/1e57f2aa-6e4b-4907-ab47-df6c5bc75d37" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-02 192217" src="https://github.com/user-attachments/assets/c643624d-00bc-4100-a3dc-a22cbe0fc1a4" />
+
+
 
