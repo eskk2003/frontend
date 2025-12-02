@@ -4,15 +4,15 @@ API Endpoints Used
 
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/020426db-5335-451c-b385-c638bb663081" /> Guests Management
 
-GET /api/guests - Fetch all guests
+- GET /api/guests - Fetch all guests
 
-GET /api/guests/:id - Fetch single guest
+- GET /api/guests/:id - Fetch single guest
 
-POST /api/guests - Create new guest
+- POST /api/guests - Create new guest
 
-PUT /api/guests/:id - Update existing guest
+- PUT /api/guests/:id - Update existing guest
 
-DELETE /api/guests/:id - Delete guest
+- DELETE /api/guests/:id - Delete guest
 
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/7a18e512-a4cb-42fb-8651-efe32d176545" /> Rooms Management
 
